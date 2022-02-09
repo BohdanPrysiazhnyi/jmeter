@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1644403806297,1373,home page,200,OK,Thread Group 1-1,text,true,,25293,123,2,2,https://demo.nopcommerce.com/,1372,0,41
+1644403807295,1325,home page,200,OK,Thread Group 1-2,text,true,,25299,123,3,3,https://demo.nopcommerce.com/,1323,0,35
+1644403807672,1339,search by keyword,200,OK,Thread Group 1-1,text,true,,22602,409,3,3,https://demo.nopcommerce.com/search?q=apple,1334,0,0
+1644403808295,1369,home page,200,OK,Thread Group 1-3,text,true,,25297,123,3,3,https://demo.nopcommerce.com/,1364,0,46
+1644403808621,1336,search by keyword,200,OK,Thread Group 1-2,text,true,,22905,407,3,3,https://demo.nopcommerce.com/search?q=htc,1335,0,0
+1644403809024,1248,click on random product,200,OK,Thread Group 1-1,text,true,,31448,420,3,3,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,1245,0,0
+1644403809966,364,click on random product,200,OK,Thread Group 1-2,text,true,,38909,427,3,3,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,360,0,0
+1644403810283,261,add product to compare list,200,OK,Thread Group 1-1,text,true,,1964,1147,3,3,https://demo.nopcommerce.com/compareproducts/add/4,261,0,0
+1644403809666,1320,search by keyword,200,OK,Thread Group 1-3,text,true,,21726,411,3,3,https://demo.nopcommerce.com/search?q=macbook,1319,0,0
+1644403810993,320,click on random product,200,OK,Thread Group 1-3,text,true,,31444,420,3,3,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,318,0,0
+1644403810338,1009,add product to compare list,200,OK,Thread Group 1-2,text,true,,1974,1148,3,3,https://demo.nopcommerce.com/compareproducts/add/4,1009,0,0
+1644403810545,1038,open compare list,200,OK,Thread Group 1-1,text,true,,16711,466,3,3,https://demo.nopcommerce.com/compareproducts,1036,0,0
+1644403811698,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1010,0,3,3,null,0,0,0
+1644403811347,286,open compare list,200,OK,Thread Group 1-2,text,true,,16762,467,3,3,https://demo.nopcommerce.com/compareproducts,284,0,0
+1644403811746,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,1024,0,2,2,null,0,0,0
+1644403811318,1013,add product to compare list,200,OK,Thread Group 1-3,text,true,,1970,1147,1,1,https://demo.nopcommerce.com/compareproducts/add/4,1013,0,0
+1644403812332,289,open compare list,200,OK,Thread Group 1-3,text,true,,16717,466,1,1,https://demo.nopcommerce.com/compareproducts,288,0,0
+1644403812742,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,1012,0,1,1,null,0,0,0
