@@ -1,7 +1,7 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1644404077970,1402,home page,200,OK,Thread Group 1-1,text,true,,25295,123,1,1,https://demo.nopcommerce.com/,1387,0,47
-1644404079374,1259,search by keyword,200,OK,Thread Group 1-1,text,true,,22587,409,1,1,https://demo.nopcommerce.com/search?q=apple,1258,0,0
-1644404080640,1278,click on random product,200,OK,Thread Group 1-1,text,true,,31443,420,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,1274,0,0
-1644404081924,255,add product to compare list,200,OK,Thread Group 1-1,text,true,,1968,1147,1,1,https://demo.nopcommerce.com/compareproducts/add/4,255,0,0
-1644404082180,1092,open compare list,200,OK,Thread Group 1-1,text,true,,16709,466,1,1,https://demo.nopcommerce.com/compareproducts,1077,0,0
-1644404083412,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1010,0,1,1,null,0,0,0
+1644407109489,1322,home page,200,OK,Thread Group 1-1,text,true,,25299,123,1,1,https://demo.nopcommerce.com/,1317,0,64
+1644407110814,1254,search by keyword,200,OK,Thread Group 1-1,text,true,,22595,409,1,1,https://demo.nopcommerce.com/search?q=apple,1252,0,0
+1644407112085,1291,click on random product,200,OK,Thread Group 1-1,text,true,,31446,420,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,1281,0,0
+1644407113384,1039,add product to compare list,200,OK,Thread Group 1-1,text,true,,1962,1147,1,1,https://demo.nopcommerce.com/compareproducts/add/4,1039,0,0
+1644407114425,280,open compare list,200,OK,Thread Group 1-1,text,true,,16707,466,1,1,https://demo.nopcommerce.com/compareproducts,280,0,0
+1644407114825,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1010,0,1,1,null,0,0,0
