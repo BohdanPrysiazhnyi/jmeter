@@ -1,0 +1,97 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1644482888904,372,home page,200,OK,Thread Group 1-1,text,true,,25308,123,1,1,https://demo.nopcommerce.com/,370,0,36
+1644482889277,322,search by keyword,200,OK,Thread Group 1-1,text,true,,22914,407,1,1,https://demo.nopcommerce.com/search?q=htc,321,0,0
+1644482889604,392,click on random product,200,OK,Thread Group 1-1,text,true,,38911,427,2,2,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,389,0,0
+1644482889900,332,home page,200,OK,Thread Group 1-2,text,true,,25291,123,2,2,https://demo.nopcommerce.com/,331,0,37
+1644482890010,258,add product to compare list,200,OK,Thread Group 1-1,text,true,,1963,1124,2,2,https://demo.nopcommerce.com/compareproducts/add/18,258,0,0
+1644482890233,315,search by keyword,200,OK,Thread Group 1-2,text,true,,22589,409,2,2,https://demo.nopcommerce.com/search?q=apple,314,0,0
+1644482890269,309,open compare list,200,OK,Thread Group 1-1,text,true,,16570,468,2,2,https://demo.nopcommerce.com/compareproducts,308,0,0
+1644482890682,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1139,0,2,2,null,0,0,0
+1644482890554,306,click on random product,200,OK,Thread Group 1-2,text,true,,31438,420,2,2,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,304,0,0
+1644482890683,351,home page,200,OK,Thread Group 1-1,text,true,,25080,453,3,3,https://demo.nopcommerce.com/,345,0,42
+1644482890872,269,add product to compare list,200,OK,Thread Group 1-2,text,true,,1960,1145,3,3,https://demo.nopcommerce.com/compareproducts/add/4,269,0,0
+1644482890905,327,home page,200,OK,Thread Group 1-3,text,true,,25310,123,3,3,https://demo.nopcommerce.com/,326,0,34
+1644482891035,337,search by keyword,200,OK,Thread Group 1-1,text,true,,23528,465,3,3,https://demo.nopcommerce.com/search?q=htc,335,0,0
+1644482891142,279,open compare list,200,OK,Thread Group 1-2,text,true,,16713,466,3,3,https://demo.nopcommerce.com/compareproducts,279,0,0
+1644482891522,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,1198,0,3,3,null,0,0,0
+1644482891233,330,search by keyword,200,OK,Thread Group 1-3,text,true,,21714,411,3,3,https://demo.nopcommerce.com/search?q=macbook,328,0,0
+1644482891378,395,click on random product,200,OK,Thread Group 1-1,text,true,,39905,470,3,3,https://demo.nopcommerce.com/htc-one-mini-blue,392,0,0
+1644482891568,318,click on random product,200,OK,Thread Group 1-3,text,true,,31446,420,3,3,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,316,0,0
+1644482891522,379,home page,200,OK,Thread Group 1-2,text,true,,25072,451,3,3,https://demo.nopcommerce.com/,379,0,34
+1644482891789,283,add product to compare list,200,OK,Thread Group 1-1,text,true,,1968,1155,4,4,https://demo.nopcommerce.com/compareproducts/add/19,283,0,0
+1644482891899,279,add product to compare list,200,OK,Thread Group 1-3,text,true,,1964,1145,4,4,https://demo.nopcommerce.com/compareproducts/add/4,279,0,0
+1644482891905,334,home page,200,OK,Thread Group 1-4,text,true,,25295,123,4,4,https://demo.nopcommerce.com/,333,0,36
+1644482891902,341,search by keyword,200,OK,Thread Group 1-2,text,true,,21979,465,4,4,https://demo.nopcommerce.com/search?q=nokia,340,0,0
+1644482892073,288,open compare list,200,OK,Thread Group 1-1,text,true,,17369,478,4,4,https://demo.nopcommerce.com/compareproducts,288,0,0
+1644482892468,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1109,0,4,4,null,0,0,0
+1644482892179,282,open compare list,200,OK,Thread Group 1-3,text,true,,16707,466,4,4,https://demo.nopcommerce.com/compareproducts,280,0,0
+1644482892569,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,1201,0,4,4,null,0,0,0
+1644482892240,336,search by keyword,200,OK,Thread Group 1-4,text,true,,22913,407,4,4,https://demo.nopcommerce.com/search?q=htc,335,0,0
+1644482892248,397,click on random product,200,OK,Thread Group 1-2,text,true,,38168,467,4,4,https://demo.nopcommerce.com/nokia-lumia-1020,394,0,0
+1644482892469,359,home page,200,OK,Thread Group 1-1,text,true,,25068,463,4,4,https://demo.nopcommerce.com/,357,0,43
+1644482892570,324,home page,200,OK,Thread Group 1-3,text,true,,25077,451,4,4,https://demo.nopcommerce.com/,322,0,35
+1644482892661,279,add product to compare list,200,OK,Thread Group 1-2,text,true,,1975,1153,4,4,https://demo.nopcommerce.com/compareproducts/add/20,279,0,0
+1644482892582,376,click on random product,200,OK,Thread Group 1-4,text,true,,38913,427,4,4,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,371,0,0
+1644482892828,321,search by keyword,200,OK,Thread Group 1-1,text,true,,23540,477,4,4,https://demo.nopcommerce.com/search?q=apple,319,0,0
+1644482892894,354,search by keyword,200,OK,Thread Group 1-3,text,true,,23479,463,4,4,https://demo.nopcommerce.com/search?q=htc,353,0,0
+1644482892975,281,add product to compare list,200,OK,Thread Group 1-4,text,true,,1967,1124,4,4,https://demo.nopcommerce.com/compareproducts/add/18,281,0,0
+1644482892941,328,open compare list,200,OK,Thread Group 1-2,text,true,,17257,476,4,4,https://demo.nopcommerce.com/compareproducts,328,0,0
+1644482893381,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,1108,0,4,4,null,0,0,0
+1644482893155,365,click on random product,200,OK,Thread Group 1-1,text,true,,30870,473,4,4,https://demo.nopcommerce.com/apple-icam,361,0,0
+1644482893254,391,click on random product,200,OK,Thread Group 1-3,text,true,,39908,468,4,4,https://demo.nopcommerce.com/htc-one-mini-blue,375,0,0
+1644482893257,303,open compare list,200,OK,Thread Group 1-4,text,true,,16562,468,4,4,https://demo.nopcommerce.com/compareproducts,303,0,0
+1644482893671,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,1139,0,4,4,null,0,0,0
+1644482893382,345,home page,200,OK,Thread Group 1-2,text,true,,25075,461,4,4,https://demo.nopcommerce.com/,343,0,40
+1644482893536,271,add product to compare list,200,OK,Thread Group 1-1,text,true,,1986,1164,4,4,https://demo.nopcommerce.com/compareproducts/add/5,271,0,0
+1644482893663,252,add product to compare list,200,OK,Thread Group 1-3,text,true,,1969,1153,4,4,https://demo.nopcommerce.com/compareproducts/add/19,252,0,0
+1644482893672,327,home page,200,OK,Thread Group 1-4,text,true,,25077,453,4,4,https://demo.nopcommerce.com/,326,0,32
+1644482893727,299,search by keyword,200,OK,Thread Group 1-2,text,true,,22605,477,4,4,https://demo.nopcommerce.com/search?q=macbook,297,0,0
+1644482893808,299,open compare list,200,OK,Thread Group 1-1,text,true,,18710,487,4,4,https://demo.nopcommerce.com/compareproducts,298,0,0
+1644482894207,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,916,0,4,4,null,0,0,0
+1644482893916,280,open compare list,200,OK,Thread Group 1-3,text,true,,17272,476,4,4,https://demo.nopcommerce.com/compareproducts,279,0,0
+1644482894299,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,1109,0,4,4,null,0,0,0
+1644482894000,337,search by keyword,200,OK,Thread Group 1-4,text,true,,22042,467,4,4,https://demo.nopcommerce.com/search?q=nokia,336,0,0
+1644482894031,331,click on random product,200,OK,Thread Group 1-2,text,true,,31443,486,4,4,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,329,0,0
+1644482894209,332,home page,200,OK,Thread Group 1-1,text,true,,25064,472,4,4,https://demo.nopcommerce.com/,330,0,47
+1644482894373,277,add product to compare list,200,OK,Thread Group 1-2,text,true,,1967,1180,4,4,https://demo.nopcommerce.com/compareproducts/add/4,277,0,0
+1644482894300,378,home page,200,OK,Thread Group 1-3,text,true,,25070,461,4,4,https://demo.nopcommerce.com/,378,0,32
+1644482894342,412,click on random product,200,OK,Thread Group 1-4,text,true,,38176,469,4,4,https://demo.nopcommerce.com/nokia-lumia-1020,409,0,0
+1644482894542,312,search by keyword,200,OK,Thread Group 1-1,text,true,,24141,484,4,4,https://demo.nopcommerce.com/search?q=htc,311,0,0
+1644482894679,344,search by keyword,200,OK,Thread Group 1-3,text,true,,23493,475,4,4,https://demo.nopcommerce.com/search?q=apple,334,0,0
+1644482894768,275,add product to compare list,200,OK,Thread Group 1-4,text,true,,1978,1155,4,4,https://demo.nopcommerce.com/compareproducts/add/20,275,0,0
+1644482894651,293,open compare list,200,OK,Thread Group 1-2,text,true,,17257,476,4,4,https://demo.nopcommerce.com/compareproducts,292,0,0
+1644482895045,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,1200,0,4,4,null,0,0,0
+1644482894860,364,click on random product,200,OK,Thread Group 1-1,text,true,,39910,489,4,4,https://demo.nopcommerce.com/htc-one-mini-blue,360,0,0
+1644482895046,337,home page,200,OK,Thread Group 1-2,text,true,,25066,461,4,4,https://demo.nopcommerce.com/,331,0,35
+1644482895029,409,click on random product,200,OK,Thread Group 1-3,text,true,,30877,471,4,4,https://demo.nopcommerce.com/apple-icam,404,0,0
+1644482895044,315,open compare list,200,OK,Thread Group 1-4,text,true,,17356,478,4,4,https://demo.nopcommerce.com/compareproducts,314,0,0
+1644482895460,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,1109,0,4,4,null,0,0,0
+1644482895239,296,add product to compare list,200,OK,Thread Group 1-1,text,true,,1974,1169,4,4,https://demo.nopcommerce.com/compareproducts/add/19,296,0,0
+1644482895384,331,search by keyword,200,OK,Thread Group 1-2,text,true,,23796,473,4,4,https://demo.nopcommerce.com/search?q=htc,330,0,0
+1644482895454,269,add product to compare list,200,OK,Thread Group 1-3,text,true,,1982,1162,4,4,https://demo.nopcommerce.com/compareproducts/add/5,269,0,0
+1644482895461,329,home page,200,OK,Thread Group 1-4,text,true,,25068,463,4,4,https://demo.nopcommerce.com/,328,0,33
+1644482895536,290,open compare list,200,OK,Thread Group 1-1,text,true,,18700,487,4,4,https://demo.nopcommerce.com/compareproducts,289,0,0
+1644482895925,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,1109,0,4,4,null,0,0,0
+1644482895791,341,search by keyword,200,OK,Thread Group 1-4,text,true,,22658,479,3,3,https://demo.nopcommerce.com/search?q=macbook,335,0,0
+1644482895724,314,open compare list,200,OK,Thread Group 1-3,text,true,,18628,485,3,3,https://demo.nopcommerce.com/compareproducts,313,0,0
+1644482896143,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,916,0,3,3,null,0,0,0
+1644482895721,399,click on random product,200,OK,Thread Group 1-2,text,true,,38916,493,3,3,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,396,0,0
+1644482896138,305,click on random product,200,OK,Thread Group 1-4,text,true,,31450,488,3,3,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,303,0,0
+1644482896146,331,add product to compare list,200,OK,Thread Group 1-2,text,true,,1976,1163,3,3,https://demo.nopcommerce.com/compareproducts/add/18,331,0,0
+1644482896144,368,home page,200,OK,Thread Group 1-3,text,true,,25075,470,3,3,https://demo.nopcommerce.com/,367,0,39
+1644482896457,266,add product to compare list,200,OK,Thread Group 1-4,text,true,,1978,1186,3,3,https://demo.nopcommerce.com/compareproducts/add/4,266,0,0
+1644482896512,347,search by keyword,200,OK,Thread Group 1-3,text,true,,22592,484,3,3,https://demo.nopcommerce.com/search?q=nokia,346,0,0
+1644482896477,303,open compare list,200,OK,Thread Group 1-2,text,true,,18260,486,3,3,https://demo.nopcommerce.com/compareproducts,302,0,0
+1644482896881,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,1138,0,3,3,null,0,0,0
+1644482896723,298,open compare list,200,OK,Thread Group 1-4,text,true,,18262,486,2,2,https://demo.nopcommerce.com/compareproducts,297,0,0
+1644482897120,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,1201,0,2,2,null,0,0,0
+1644482896864,381,click on random product,200,OK,Thread Group 1-3,text,true,,38182,486,2,2,https://demo.nopcommerce.com/nokia-lumia-1020,379,0,0
+1644482897122,342,home page,200,OK,Thread Group 1-4,text,true,,25068,471,2,2,https://demo.nopcommerce.com/,341,0,38
+1644482897261,271,add product to compare list,200,OK,Thread Group 1-3,text,true,,1972,1168,2,2,https://demo.nopcommerce.com/compareproducts/add/20,271,0,0
+1644482897465,319,search by keyword,200,OK,Thread Group 1-4,text,true,,24235,483,2,2,https://demo.nopcommerce.com/search?q=htc,317,0,0
+1644482897532,371,open compare list,200,OK,Thread Group 1-3,text,true,,18475,491,2,2,https://demo.nopcommerce.com/compareproducts,370,0,0
+1644482898004,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,1109,0,2,2,null,0,0,0
+1644482897790,365,click on random product,200,OK,Thread Group 1-4,text,true,,38918,503,1,1,https://demo.nopcommerce.com/htc-one-m8-android-l-50-lollipop,362,0,0
+1644482898170,267,add product to compare list,200,OK,Thread Group 1-4,text,true,,1976,1168,1,1,https://demo.nopcommerce.com/compareproducts/add/18,267,0,0
+1644482898438,287,open compare list,200,OK,Thread Group 1-4,text,true,,18273,486,1,1,https://demo.nopcommerce.com/compareproducts,287,0,0
+1644482898835,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,1139,0,1,1,null,0,0,0
